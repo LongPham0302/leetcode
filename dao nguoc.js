@@ -49,8 +49,7 @@ var reverse = function(x) {
 };
 //huy
 
-
 //Nam
 console.log("Nam 123");
 //Nam
-console.log("123");
+console.log("123456");
