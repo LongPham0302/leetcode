@@ -52,3 +52,5 @@ var reverse = function(x) {
 
 //Nam
 console.log("Nam 123");
+//Nam
+console.log("123");
