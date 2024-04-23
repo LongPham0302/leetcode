@@ -48,3 +48,7 @@ var reverse = function(x) {
   }
 };
 //huy
+
+
+//Nam
+console.log("Nam 123");
